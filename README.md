@@ -2,7 +2,7 @@
 
 ### 🔗 Live Demo (Canlı Yayın)
 
-[**View Portfolio Live**] --> [(https://codewithozzy.github.io/professional.portfolio/)](https://codewithozzy.github.io/professional.portfolio/)
+[**View Portfolio Live**] -->  https://codewithozzy.github.io/professional-portfolio/
 ***
 
 ## 🌟 About the Project
